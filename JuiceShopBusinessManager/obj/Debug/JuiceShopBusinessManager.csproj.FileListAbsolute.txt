@@ -1,0 +1,11 @@
+C:\Users\npinnamaraju\source\repos\JuiceShopSystem\JuiceShopBusinessManager\bin\Debug\JuiceShopBusinessManager.dll
+C:\Users\npinnamaraju\source\repos\JuiceShopSystem\JuiceShopBusinessManager\bin\Debug\JuiceShopBusinessManager.pdb
+C:\Users\npinnamaraju\source\repos\JuiceShopSystem\JuiceShopBusinessManager\bin\Debug\JuiceShopDAL.dll
+C:\Users\npinnamaraju\source\repos\JuiceShopSystem\JuiceShopBusinessManager\bin\Debug\JuiceShopEntities.dll
+C:\Users\npinnamaraju\source\repos\JuiceShopSystem\JuiceShopBusinessManager\bin\Debug\JuiceShopDAL.pdb
+C:\Users\npinnamaraju\source\repos\JuiceShopSystem\JuiceShopBusinessManager\bin\Debug\JuiceShopEntities.pdb
+C:\Users\npinnamaraju\source\repos\JuiceShopSystem\JuiceShopBusinessManager\obj\Debug\JuiceShopBusinessManager.csprojAssemblyReference.cache
+C:\Users\npinnamaraju\source\repos\JuiceShopSystem\JuiceShopBusinessManager\obj\Debug\JuiceShopBusinessManager.csproj.CoreCompileInputs.cache
+C:\Users\npinnamaraju\source\repos\JuiceShopSystem\JuiceShopBusinessManager\obj\Debug\JuiceShopBusinessManager.csproj.CopyComplete
+C:\Users\npinnamaraju\source\repos\JuiceShopSystem\JuiceShopBusinessManager\obj\Debug\JuiceShopBusinessManager.dll
+C:\Users\npinnamaraju\source\repos\JuiceShopSystem\JuiceShopBusinessManager\obj\Debug\JuiceShopBusinessManager.pdb

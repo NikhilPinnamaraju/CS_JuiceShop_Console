@@ -1,0 +1,14 @@
+C:\Users\npinnamaraju\source\repos\JuiceShopSystem\JuiceShopClient\bin\Debug\JuiceShopClient.exe.config
+C:\Users\npinnamaraju\source\repos\JuiceShopSystem\JuiceShopClient\bin\Debug\JuiceShopClient.exe
+C:\Users\npinnamaraju\source\repos\JuiceShopSystem\JuiceShopClient\bin\Debug\JuiceShopClient.pdb
+C:\Users\npinnamaraju\source\repos\JuiceShopSystem\JuiceShopClient\bin\Debug\JuiceShopBusinessManager.dll
+C:\Users\npinnamaraju\source\repos\JuiceShopSystem\JuiceShopClient\bin\Debug\JuiceShopEntities.dll
+C:\Users\npinnamaraju\source\repos\JuiceShopSystem\JuiceShopClient\bin\Debug\JuiceShopDAL.dll
+C:\Users\npinnamaraju\source\repos\JuiceShopSystem\JuiceShopClient\bin\Debug\JuiceShopBusinessManager.pdb
+C:\Users\npinnamaraju\source\repos\JuiceShopSystem\JuiceShopClient\bin\Debug\JuiceShopEntities.pdb
+C:\Users\npinnamaraju\source\repos\JuiceShopSystem\JuiceShopClient\bin\Debug\JuiceShopDAL.pdb
+C:\Users\npinnamaraju\source\repos\JuiceShopSystem\JuiceShopClient\obj\Debug\JuiceShopClient.csprojAssemblyReference.cache
+C:\Users\npinnamaraju\source\repos\JuiceShopSystem\JuiceShopClient\obj\Debug\JuiceShopClient.csproj.CoreCompileInputs.cache
+C:\Users\npinnamaraju\source\repos\JuiceShopSystem\JuiceShopClient\obj\Debug\JuiceShopClient.csproj.CopyComplete
+C:\Users\npinnamaraju\source\repos\JuiceShopSystem\JuiceShopClient\obj\Debug\JuiceShopClient.exe
+C:\Users\npinnamaraju\source\repos\JuiceShopSystem\JuiceShopClient\obj\Debug\JuiceShopClient.pdb
